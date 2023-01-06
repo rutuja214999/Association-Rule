@@ -1,5 +1,5 @@
 # Association-Rule
-## Association Rulle for book store
+## Association Rule for book store
 
 Kitabi Duniya, a famous book store in India, which was established before Independence, the growth of the company was incremental year by year, but due to online selling of books and wide spread Internet access its annual growth started to collapse, seeing sharp downfalls.
 
